@@ -1,22 +1,6 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20890
-Fork on GitHub
-6456
+<h3 align="center">Backend developer from Ukraine</h3>
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ygugnin" alt="ygugnin" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ygugnin" alt="ygugnin" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
